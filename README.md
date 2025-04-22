@@ -1,0 +1,2 @@
+# 19-Create-a-realtime-report-with-Azure-Stream-Analytics-and-Microsoft-Power-BI
+In this exercise, you'll use A. Stream Analytics to process a stream of sales order data, such as might be generated from an online retail application. The order data will be sent to A. Event Hubs, from where your Azure Stream Analytics job will read and summarize the data before sending it to Power BI,where you will visualize the data in a report.
